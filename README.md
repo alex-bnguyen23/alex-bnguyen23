@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![cover image](cover-image-astronaunts-v1.jpeg)
 <!--
 **alex-bnguyen23/alex-bnguyen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
