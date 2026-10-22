@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちはあるいはこんばんは。👋
 
 ![cover image](cover-image-astronaunts-v1.jpeg)
 <!--
